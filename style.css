@@ -55,7 +55,7 @@ h2 {
 }
 
 
-.link{
+.links{
     color:crimson;
     display: inline;
     padding-top:5px;
@@ -65,7 +65,7 @@ h2 {
 }
 
 
-   .link:hover
+   .links:hover
 {
  background-color:beige;
 }
@@ -82,3 +82,28 @@ h2 {
     width:auto;
     height:300px;
 }
+html {
+    scroll-behavior: smooth;
+}
+
+
+#contact {
+    background: firebrick;
+
+}
+
+.contact_1 a {
+    color: white;
+    text-shadow: none;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+#contact iframe {
+    width: 100%;
+
+}
+
+
